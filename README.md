@@ -1,7 +1,3 @@
-Here's a README file for the project, detailing the purpose of each component and usage instructions.
-
----
-
 # Color Generator App
 
 This project is a simple Color Generator application built with React. It allows users to input a color and generate various shades or tints of that color. Users can also copy each color’s hex value to the clipboard.
